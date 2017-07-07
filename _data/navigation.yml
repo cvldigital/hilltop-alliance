@@ -1,7 +1,3 @@
-- name: Who We Are
-  link: /who-we-are/
-  new_window: false
-  highlight: false
 - name: What We Do
   link: /what-we-do/
   new_window: false
