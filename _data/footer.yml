@@ -1,0 +1,35 @@
+- links:
+    - name: Who We Are
+      link: /who-we-are/
+    - name: Blog
+      link: /blog/
+    - name: What We Do
+      link: /what-we-do/
+    - name: Our Team
+      link: /team/
+- links:
+    - name: Login
+      link: /
+      new_window: true
+    - name: Sign Up
+      link: /
+      new_window: true
+    - name: Docs
+      link: /
+      new_window: true
+    - name: Status
+      link: /
+      new_window: true
+- links:
+    - name: LinkedIn
+      link: 'https://linkedin.com/hilltopalliance'
+      new_window: true
+      social_icon: Twitter
+    - name: Twitter
+      link: 'https://twitter.com/hilltopalliance'
+      social_icon: Twitter
+      new_window: true
+    - name: RSS
+      link: /feed.xml
+      social_icon: RSS
+      new_window: false
