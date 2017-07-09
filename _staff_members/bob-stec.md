@@ -1,6 +1,6 @@
 ---
 name: Bob Stec
-position:
+position: Partner
 image_path:
 twitter:
 blurb:
