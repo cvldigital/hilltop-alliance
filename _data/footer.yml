@@ -19,6 +19,10 @@
       link: 'https://linkedin.com/hilltopalliance'
       new_window: true
       social_icon: LinkedIn
+    - name: Google+
+      link: 'https://plus.google.com/b/101845206507009238329/101845206507009238329'
+      new_window: true
+      social_icon: LinkedIn
     - name: Twitter
       link: 'https://twitter.com/hilltopalliance'
       social_icon: Twitter
