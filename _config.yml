@@ -6,7 +6,7 @@ url: "https://proud-alligator.cloudvent.net"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
-disqus_shortname:
+disqus_shortname: carlvirgillewis
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
@@ -16,9 +16,9 @@ author:
   email: carl@carlvlewis.net
   twitter: carlvlewis
 social:
-  name: Hydra Template
+  name: Hilltop Alliance
   links:
-    - https://github.com/CloudCannon/hydra-jekyll-template
+    - https://github.com/cvldigital/hilltop-alliance
 
 # -----
 # Build
