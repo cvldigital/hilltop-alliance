@@ -8,17 +8,11 @@
     - name: Our Team
       link: /team/
 - links:
-    - name: Login
-      link: /
+    - name: Global Partners
+      link: /global-partners/
       new_window: true
-    - name: Sign Up
-      link: /
-      new_window: true
-    - name: Docs
-      link: /
-      new_window: true
-    - name: Status
-      link: /
+    - name: FAQ
+      link: /faq/
       new_window: true
 - links:
     - name: LinkedIn
