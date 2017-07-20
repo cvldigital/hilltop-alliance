@@ -1,16 +1,7 @@
 ---
 title: Contact
 heading: Get in touch today
-description: We'd love to globalize your brand
-
-map:
-  latitude:  32
-  longitude: -81
-  address: "Savannah, Ga"
-  zoom: 13
 ---
-<div class="map" id="map"></div>
-
 
 <div class="contact-box">
 	<form action="{{ site.baseurl }}/contact-success/" method="post" class="contact-form">
@@ -30,11 +21,9 @@ map:
 	</form>
 
 	<div class="contact-details">
-		<h3 class="editable">Address</h3>
-		<address><a target="_blank" href="https://www.google.com/maps/place/{{ page.map.address | url_encode }}">{{ page.map.address | replace: ", ", ", <br>" }}</a></address>
 
 		<h3 class="editable">Email</h3>
-		<p><a href="mailto:info@thehilltopalliance.com">info@thehilltopalliance.com</a></p>
+		<p><a href="mailto:info@thehilltopalliance.com">bud@thehilltopalliance.com</a></p>
 	</div>
 </div>
 
