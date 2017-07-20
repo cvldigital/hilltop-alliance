@@ -1,5 +1,5 @@
 ---
-date: 2016-08-06 00:00:00
+date: 2017-05-30 00:00:00
 title: Why the Consumer is So Frustrated With Retail Today
 categories:
   - Industry Trends
