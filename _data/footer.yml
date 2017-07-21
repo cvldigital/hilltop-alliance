@@ -1,10 +1,8 @@
 - links:
-    - name: Who We Are
-      link: /who-we-are/
-    - name: Blog
-      link: /blog/
     - name: What We Do
       link: /what-we-do/
+    - name: Who We Are
+      link: /who-we-are/
     - name: Our Team
       link: /team/
 - links:
