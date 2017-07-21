@@ -8,11 +8,11 @@
     - name: Our Team
       link: /team/
 - links:
-    - name: Global Partners
-      link: /global-partners/
+    - name: Clients
+      link: /clients/
       new_window: true
-    - name: FAQ
-      link: /faq/
+    - name: Blog
+      link: /blog/
       new_window: true
 - links:
     - name: LinkedIn
