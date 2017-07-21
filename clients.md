@@ -1,9 +1,7 @@
 ---
 title: 'Client Experience'
+description: 'Our Principals have been engaged by numerous leading companies and associations such as:'
 ---
-
-
-#### Our Principals have been engaged by numerous leading companies and associations such as: 
 
 **Operating Companies**|**Operating Companies**|**Brand Management Companies**
 :-----:|:-----:|:-----:
