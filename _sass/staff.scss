@@ -4,7 +4,7 @@
 	@extend %flexbox;
 	@include flex-flow(wrap);
 	text-align: center;
-	font-size: 0.7em;
+	font-size: 0.9em;
 	li {
 		padding: 30px 20px;
 		box-sizing: border-box;
