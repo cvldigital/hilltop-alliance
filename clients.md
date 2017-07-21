@@ -1,10 +1,9 @@
 ---
 title: 'Client Experience'
-description: Our principals have been engaged by leading companies and associations.
 ---
 
 
-#### At Hilltop Alliance, our principals have been engaged by industry leaders from across the spectrum of major brands. Some of our clients include: 
+#### Our Principals have been engaged by numerous leading companies and associations such as: 
 
 **Operating Companies**|**Brand Management Companies**|**Private Equity Companies and Funds**|**Transactional Advisors**|**Associations**
 :-----:|:-----:|:-----:|:-----:|:-----:
