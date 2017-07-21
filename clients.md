@@ -3,7 +3,6 @@ title: 'Client Experience'
 description: Our principals have been engaged by leading companies and associations.
 ---
 
-# Client Experience
 
 #### At Hilltop Alliance, our principals have been engaged by industry leaders from across the spectrum of major brands. Some of our clients include: 
 
