@@ -4,7 +4,7 @@
     - name: Who We Are
       link: /who-we-are/
     - name: Our Team
-      link: /team/
+      link: /about/
 - links:
     - name: Clients
       link: /clients/
