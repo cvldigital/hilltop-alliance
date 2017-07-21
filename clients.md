@@ -1,5 +1,5 @@
 ---
-title: Client Experience:
+title: 'Client Experience'
 description: Our principals have been engaged by leading companies and associations.
 ---
 
