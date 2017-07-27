@@ -2,8 +2,15 @@
 title: 'Client Experience'
 description: 'Our Principals have been engaged by numerous leading companies and associations such as:'
 ---
-
-<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
+<script>$(document).ready(function() {
+    $('[id^=detail-]').hide();
+    $('.toggle').click(function() {
+        $input = $( this );
+        $target = $('#'+$input.attr('data-toggle'));
+        $target.slideToggle();
+    });
+});</script>
+<link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
 <div class="container">
 	<div class="panel panel-default">
         <ul class="list-group">
