@@ -3,34 +3,140 @@ title: 'What We Do'
 description: 'How we work to achieve your goals at Hilltop Alliance'
 ---
 
-	<section class="four-up-feature">
-  <div class="row align-spaced">
-    <div class="small-10 medium-3 columns">
-      
-      <h2>Strategy</h2>
-      <em>A fresh perspective leads to an executable plan.</em>
-      <p class="four-up-feature-text">The best decisions aren’t made in a vacuum.  A thorough study of the strengths and weaknesses of your company or brand, an assessment of the competitive playing field and an understanding of the relevant industry and environmental trends leads to a go-forward plan. </p><p>
-The first step is understanding your short and long term needs and wants. Fact-based strategic thinking leads to a plan for value creation. </p>
-    </div><br/><hr></hr><br/>
-    <div class="small-10 medium-3 columns">
-      <h2>Execution</h2>
-            <em>We link our success to yours</em>
-<p class="four-up-feature-text">Our engagement may extend to finding alliance partners, facilitating licensing agreements, buy/sell side advisory, assistance in strategic planning, marketing and commercial development of new products. Our collaborative network of professionals span a broad spectrum of disciplines, industries and channels across the globe. Together, we’ll find an optimal, cost-effective means of implementing your strategy. </p>
-    </div><br/><hr></hr><br/>
-    <div class="small-10 medium-3 columns">
-      <h2>Transactions</h2>
-      <p class="four-up-feature-text">Our approach is focused, narrow and surgical – based upon solid research and analysis, industry knowledge and trusted business relationships. </p>
+<style>* {
+  margin: 0;
+  padding: 0;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+body {
+  padding: 20px;
+  color: #333;
+  background: #eee;
+}
+h1 {
+  font-weight: normal;
+  font-size: 40px;
+  margin: 20px 0 100px 10px;
+}
+.tabs {
+  width: 650px;
+  float: none;
+  list-style: none;
+  position: relative;
+  margin: 80px 0 0 10px;
+}
+.tabs li {
+  float: left;
+  display: block;
+}
+.tabs input[type="radio"] {
+  position: absolute;
+  top: -9999px;
+  left: -9999px;
+}
+.tabs label {
+  display: block;
+  padding: 14px 21px;
+  border-radius: 2px 2px 0 0;
+  font-size: 20px;
+  background: #ccc;
+  cursor: pointer;
+  position: relative;
+  top: 4px;
+  -moz-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+.tabs [id^="tab"]:checked + p {
+    color:black;
+    -moz-transition: all 2.2s ease-in-out;
+    -o-transition: all 2.2s ease-in-out;
+    -webkit-transition: all 2.2s ease-in-out;
+    transition: all 2.2s ease-in-out;
+}
+.tabs label:hover {
+  background: #fff;
+}
+.tabs .tab-content {
+  z-index: 2;
+  display: none;
+  overflow: hidden;
+  width: 100%;
+  font-size: 17px;
+  line-height: 25px;
+  padding: 25px;
+  position: absolute;
+  top: 53px;
+  left: 0;
+  background: #fff;
+}
+.tabs [id^="tab"]:checked + label {
+  background: #fff;
+}
+.tabs [id^="tab"]:checked ~ [id^="tab-content"] {
+  display: block;
+}
+</style>
 
-<p>Hilltop provides industry-specific origination and buy side advisory to companies seeking acquisitions and joint ventures in the fashion and home goods sectors.</p>
-
-<p>On the sell-side, smaller companies benefit from the Hilltop Alliance’s expertise to position them for the market, discreetly identify potential buyers and negotiate favorable terms and conditions of sale.</p>
-    </div><br/><hr></hr><br/>
-    <div class="small-10 medium-3 columns">
-      <h2>Connectivity</h2>
-      <em>Think local and act global. Act global and think local.</em>
-      <p class="four-up-feature-text">Internationalization isn’t easy without in-depth local market knowledge and a reliable partner on the ground to realize your vision. Our professional network is global and our collective business experience spans the continents. Whether you are looking to expand into emerging markets, such as India and the Middle East, or mature markets such as Western Europe or the U.S., Hilltop may be your best first call to explore foreign expansion options.</p>
-    </div>
-  </div>
-</section>
-
-	
+	<div class="container">
+	<div class="row">
+		
+        
+        <h1>CSS TABS</h1>
+        
+        <ul class=tabs>
+            
+            <li>
+                
+                <input type=radio name=tabs id=tab1 checked>
+                <label for=tab1>Tab1</label>
+                <div id=tab-content1 class=tab-content>
+                    
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, 
+                        sed do eiusmod tempor incididunt ut labore et dolore 
+                        magna aliqua. Ut enim ad minim veniam, quis nostrud 
+                        exercitation ullamco laboris nisi ut aliquip ex ea 
+                        commodo consequat. Duis aute irure dolor in reprehenderit 
+                        in voluptate velit esse cillum dolore eu fugiat nulla 
+                        pariatur. Excepteur sint occaecat cupidatat non proident, 
+                        sunt in culpa qui officia deserunt mollit anim id est 
+                        laborum.
+                    </p>
+                    
+                </div>
+                
+            </li>
+            
+            <li>
+                
+                <input type=radio name=tabs id=tab2 checked>
+                <label for=tab2>Tab2</label>
+                <div id=tab-content2 class=tab-content>
+                    
+                    <p>
+                        In faucibus ullamcorper vulputate. Fusce massa ex, 
+                        posuere sit amet felis eu, ullamcorper pharetra nulla. 
+                        Morbi fringilla arcu accumsan, consequat sem vitae, 
+                        congue risus. Ut sit amet lobortis leo. Aenean erat 
+                        lectus, egestas vel rutrum eu, mattis vel est. In nec 
+                        nulla non turpis ornare mollis eu sit amet nulla. 
+                        Aliquam leo tortor, dictum in facilisis eu, viverra a 
+                        magna. Sed viverra euismod diam sed luctus. 
+                    </p>
+                    
+                </div>
+                
+            </li>
+            
+        </ul>
+        
+        <br style=clear:both;>
+        
+        
+        
+	</div>
+</div>
