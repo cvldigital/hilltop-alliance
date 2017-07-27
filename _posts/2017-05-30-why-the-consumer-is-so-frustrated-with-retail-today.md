@@ -7,6 +7,7 @@ categories:
   - retail
   - Consumer Behavior
 author_staff_member: bob-stec
+comments; true
 ---
 
 
