@@ -35,8 +35,9 @@ defaults:
   -
     scope:
       path: ""
-     values:		 
-        layout: "post"		
+      type: "posts"
+    values:		 
+      layout: "post"		
   -
     scope:
       path: ""
