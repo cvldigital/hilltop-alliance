@@ -10,13 +10,13 @@ disqus_shortname: carlvlewis
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Jekyll site for The Hilltop Alliance
+description: The Hilltop Alliance, LLC - Brand strategy and consulting
 author: 
   name: Carl V. Lewis
   email: carl@carlvlewis.net
   twitter: carlvlewis
 social:
-  name: Hilltop Alliance
+  name: The Hilltop Alliance
   links:
     - https://github.com/cvldigital/hilltop-alliance
 
