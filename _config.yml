@@ -36,7 +36,8 @@ defaults:
     scope:
       path: ""
       type: "posts"
-    values:
+    values: 
+    comments: true
       layout: "post"
   -
     scope:
