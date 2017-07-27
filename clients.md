@@ -3,22 +3,130 @@ title: 'Client Experience'
 description: 'Our Principals have been engaged by numerous leading companies and associations such as:'
 ---
 
-**Operating Companies**|**-**|**Brand Management Companies**
-:-----:|:-----:|:-----:
-Wellman Fibers|Hartmarx Corporation|Earthbound
-Accessory Network Group|Jeffrey Banks|Inconix Brand Groups
-Agave Denimsmith|Jones Apparel Group| 
-Arvind Mills Ltd. (India)|Lee Cooper Ltd.| 
-Arvind Brands (India)|Loomstate/Rogan|**Private Equity Companies and Funds**
-Americo Group|Marubeni Corporation|Emerisque Brands UK
-Alexandre Plokhov|The Monarchy Collection|GO GLOBAL
-The Augusta Group|Mothers in Motion|Hicks, Muse Tate and Furst
-BCBG|Mulholland|Sun Capital Partners
-Bent Criss|Nylstar| 
-Charles Jourdan N.A.|Optimer, Inc.|**Transactional Advisors**
-Dow Fiber Solutions|Reliance Brands Pvt. Ltd. (India)|Carl Marks Advisory Group/GNC
-Converse|RickardShaw| 
-Ed Hardy|Stan Herman Designs|**Associations**
-Everlast Women㒓泅/The Moret Group|Vintage Revolution/Ropa Siete Leguas (Mexico)|Cotton Inc.
-Fabrictex|Warnaco Corp.|Cotton Council International
-Fitlogic|Gerber Technology|The Polypropylene Council of America
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
+<div class="container">
+	<div class="panel panel-default">
+        <div class="panel-heading">
+            <h3 class="panel-title">Panel List Group with Expandable Setail Section</h3>
+        </div>   
+        <ul class="list-group">
+            <li class="list-group-item">
+                <div class="row toggle" id="dropdown-detail-1" data-toggle="detail-1">
+                    <div class="col-xs-10">
+                        Item 1
+                    </div>
+                    <div class="col-xs-2"><i class="fa fa-chevron-down pull-right"></i></div>
+                </div>
+                <div id="detail-1">
+                    <hr></hr>
+                    <div class="container">
+                        <div class="fluid-row">
+                            <div class="col-xs-1">
+                                Detail:
+                            </div>
+                            <div class="col-xs-5">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                            </div>
+                            <div class="col-xs-1">
+                                Detail:
+                            </div>
+                            <div class="col-xs-5">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                            </div>
+                            <div class="col-xs-1">
+                                Detail:
+                            </div>
+                            <div class="col-xs-5">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                            </div>
+                            <div class="col-xs-1">
+                                Detail:
+                            </div>
+                            <div class="col-xs-5">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li class="list-group-item">
+                <div class="row toggle" id="dropdown-detail-2" data-toggle="detail-2">
+                    <div class="col-xs-10">
+                        Item 2
+                    </div>
+                    <div class="col-xs-2"><i class="fa fa-chevron-down pull-right"></i></div>
+                </div>
+                <div id="detail-2">
+                    <hr></hr>
+                    <div class="container">
+                        <div class="fluid-row">
+                            <div class="col-xs-1">
+                                Detail:
+                            </div>
+                            <div class="col-xs-5">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                            </div>
+                            <div class="col-xs-1">
+                                Detail:
+                            </div>
+                            <div class="col-xs-5">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                            </div>
+                            <div class="col-xs-1">
+                                Detail:
+                            </div>
+                            <div class="col-xs-5">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                            </div>
+                            <div class="col-xs-1">
+                                Detail:
+                            </div>
+                            <div class="col-xs-5">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li class="list-group-item">
+                <div class="row toggle" id="dropdown-detail-3" data-toggle="detail-3">
+                    <div class="col-xs-10">
+                        Item 3
+                    </div>
+                    <div class="col-xs-2"><i class="fa fa-chevron-down pull-right"></i></div>
+                </div>
+                <div id="detail-3">
+                    <hr></hr>
+                    <div class="container">
+                        <div class="fluid-row">
+                            <div class="col-xs-1">
+                                Detail:
+                            </div>
+                            <div class="col-xs-5">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                            </div>
+                            <div class="col-xs-1">
+                                Detail:
+                            </div>
+                            <div class="col-xs-5">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                            </div>
+                            <div class="col-xs-1">
+                                Detail:
+                            </div>
+                            <div class="col-xs-5">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                            </div>
+                            <div class="col-xs-1">
+                                Detail:
+                            </div>
+                            <div class="col-xs-5">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+        </ul>
+	</div>
+</div>
