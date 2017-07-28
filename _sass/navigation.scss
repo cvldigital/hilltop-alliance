@@ -37,6 +37,7 @@ nav {
 		color: rgba(255,255,255,.8);
 		transition: .2s ease-in-out;
 		display: none;
+		font-size: 0.9;
 
 		@media #{$mid-point} {
 			display: inline;
