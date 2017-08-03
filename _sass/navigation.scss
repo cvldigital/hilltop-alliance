@@ -39,6 +39,8 @@ nav {
 		transition: .2s ease-in-out;
 		display: none;
 		font-size: 0.9em;
+			font-weight: 600;
+
 
 		@media #{$mid-point} {
 			display: inline;
