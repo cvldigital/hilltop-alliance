@@ -17,10 +17,6 @@
       link: 'https://www.linkedin.com/company-beta/24779205'
       new_window: true
       social_icon: LinkedIn
-    - name: Google +
-      link: 'https://plus.google.com/b/101845206507009238329/101845206507009238329'
-      new_window: true
-      social_icon: Google Plus
     - name: RSS
       link: /feed.xml
       social_icon: RSS
