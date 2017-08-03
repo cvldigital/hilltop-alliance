@@ -17,7 +17,3 @@
       link: 'https://www.linkedin.com/company-beta/24779205'
       new_window: true
       social_icon: LinkedIn
-    - name: RSS
-      link: /feed.xml
-      social_icon: RSS
-      new_window: false
