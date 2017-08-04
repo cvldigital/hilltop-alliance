@@ -1,7 +1,7 @@
 ---
 title: Why The Consumer Today is So Frustrated With Retail
 categories:
-author_staff_member: Bob Stec
+author_staff_Bob Stec
 date: 2017-08-04 06:30:50
 ---
 
