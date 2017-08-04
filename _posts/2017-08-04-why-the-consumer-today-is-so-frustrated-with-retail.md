@@ -6,6 +6,8 @@ date: 2017-08-04 06:30:50
 ---
 
 
+This piece by partner Bob Stec was originally published in [*The Robin Report*](http://www.therobinreport.com/why-the-consumer-is-so-frustrated-with-retail-today/)&nbsp;in Jun. 2017.
+
 Much has been written about the decline and the forecasted death of retail brick and mortar in this country. Additionally, a lot of time and effort has been spent on diagnosing why this is occurring. Everyone from strategists to economists to retailers has taken a stab at explaining the cause of this decline. To get at the real truth behind this seismic shift, you need to look no further than the driver of the decline, consumers themselves. The shifting patterns of who, what, when, where and how the U.S. consumer is or is not buying apparel cannot be blamed on new technology, new channels or new social platforms.
 
 ## Retail Shift
