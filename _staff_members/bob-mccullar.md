@@ -17,5 +17,5 @@ blurb: >-
   the introduction of OP to Warnaco, resulting in Warnaco’s acquisition of OP.
   For the last several years, his focus has been on deal origination and
   transactional processes with largely European and U.S. consumer brands across
-  multiple sectors. To contact Bub email bud@hilltopalliance.com.
+  multiple sectors. To contact Bud email bud@hilltopalliance.com.
 ---
