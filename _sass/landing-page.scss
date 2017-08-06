@@ -52,6 +52,7 @@ p {
 @media #{$desktop} {
 	.flex {
 		margin: 0 auto;
+		width: 50%;
 		align-items: center;
 		flex-direction: row;
 		justify-content: center;
