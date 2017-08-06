@@ -19,5 +19,5 @@ blurb: >-
   mentor for emerging entrepreneurs at XRC Business Accelerator in NYC, at
   Launch Greensboro and as a sector expert in apparel and home furnishings for
   companies such as Emerisque Brands; Hicks, Muse, Tate and Furst and Sun
-  Capital Partners. Email Bob at bob@hilltopalliance.com.
+  Capital Partners. Email Bob at b.stec@hilltopalliance.com.
 ---
