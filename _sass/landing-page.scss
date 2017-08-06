@@ -56,13 +56,12 @@ p {
 		align-items: center;
 		flex-direction: row;
 		justify-content: center;
-		width: 50%;
+		flex-basis: 50%;
 
 		.text, .image {
 			-webkit-flex: 1;
 			flex: 1;
 			padding: 0 20px;
-					flex-basis:50%;
 
 		}
 	}
