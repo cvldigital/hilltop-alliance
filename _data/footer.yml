@@ -6,7 +6,7 @@
     - name: Our Team
       link: /about/
 - links:
-    - name: Clients
+    - name: Experience
       link: /clients/
       new_window: true
     - name: Blog
