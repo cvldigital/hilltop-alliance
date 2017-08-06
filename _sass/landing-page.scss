@@ -11,7 +11,11 @@
 h1 {		
  		margin-bottom: 0px;
  		font-size: 1.7em;
- 	}		
+ 	}	
+ 	
+.logo {
+    width: 20px;
+}
 }		
   
 .testimonial {		
@@ -40,7 +44,6 @@ h1 {
 	background: linear-gradient(to bottom, $middle-gradient-color 0%, $secondary-brand-color 100%) no-repeat #a05fb7;
 	padding-top: 50px;
 	height: 100%;
-	width: 50%;
 	font-size: 60px!important;
 
 p {
@@ -63,7 +66,7 @@ p {
 			-webkit-flex: 1;
 			flex: 1;
 			padding: 0 20px;
-			max-width: 10%;
+			max-width: ;
 
 		}
 	}
