@@ -28,11 +28,10 @@ Once you've successfully logged in, you'll see the inline content editor allows 
 
 ![](https://s3.amazonaws.com/cvlassets/hilltop-editor.gif)
 
-#### 2. Using the frontend editor to make changes to static content
-Once you've successfully logged in, you'll see the inline content editor allows you to edit any text on the site. In the left sidebar, ensure that you have selected `Editor.` Then click on any text element on the site. You'll see a yellow selector and a styling pop-up appear for making text bold, italic or header styles.
-
+#### 3. Using the frontend editor to add new blog posts
+Within the editor, on the right-side panel, select `Posts`. You'll then see the current posts. Select the 'Create New Draft' option, typing in the headline for the post as the name of the file.
 ![](https://s3.amazonaws.com/cvlassets/hilltop-editor.gif)
 
-
+![](https://s3.amazonaws.com/cvlassets/Screen%20Shot%202017-08-08%20at%209.11.21%20PM.png)
 
 
