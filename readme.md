@@ -35,3 +35,30 @@ Within the editor, on the right-side panel, select `Posts`. You'll then see the 
 ![](https://s3.amazonaws.com/cvlassets/Screen%20Shot%202017-08-08%20at%209.11.21%20PM.png)
 
 
+
+
+
+>**NAME**: Tuatara
+>**RED**: 0.2039216012
+>**GREEN**: 0.2078430951
+>**BLUE**: 0.2117646933
+>**ALPHA**: 1.0000000000
+>**HEX**: #343536
+
+---
+
+>**NAME**: White Smoke
+>**RED**: 0.9647058845
+>**GREEN**: 0.9647058845
+>**BLUE**: 0.9647058845
+>**ALPHA**: 1.0000000000
+>**HEX**: #F6F6F6
+
+---
+
+>**NAME**: Greenery
+>**RED**: 0.5333333611
+>**GREEN**: 0.6941176653
+>**BLUE**: 0.2941176593
+>**ALPHA**: 1.0000000000
+>**HEX**: #88B14B
