@@ -38,9 +38,15 @@ Once finished with a post, be sure first to select `Save Draft` and then `Publis
 
 ![](https://s3.amazonaws.com/cvlassets/Screen%20Shot%202017-08-08%20at%209.11.21%20PM.png)
 
+---
+### Font and Typography
 
+Headers: Montserrat Bold 700 em
+Body Text: Montserrat Regular 400 em
 
+---
 
+## RGB and HEX Color Scheme Values
 
 >**NAME**: Tuatara
 >**RED**: 0.2039216012
