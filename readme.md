@@ -29,8 +29,12 @@ Once you've successfully logged in, you'll see the inline content editor allows 
 ![](https://s3.amazonaws.com/cvlassets/hilltop-editor.gif)
 
 #### 3. Using the frontend editor to add new blog posts
-Within the editor, on the right-side panel, select `Posts`. You'll then see the current posts. Select the 'Create New Draft' option, typing in the headline for the post as the name of the file.
-![](https://s3.amazonaws.com/cvlassets/hilltop-editor.gif)
+Within the editor, on the right-side panel, select `Posts`. You'll then see the current posts. Select the 'Create New Draft' option, and type in the headline for the post as the name of the file.
+
+You should then see a post editor interface appear where you can type your post, select the author, insert images and apply basic formatting, including hyperlinks.
+
+Once finished with a post, be sure first to select `Save Draft` and then `Publish Post`. You should now see the post appear at the top of the `/blog` page in reverse chronological order.
+
 
 ![](https://s3.amazonaws.com/cvlassets/Screen%20Shot%202017-08-08%20at%209.11.21%20PM.png)
 
