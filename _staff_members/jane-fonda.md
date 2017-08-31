@@ -1,7 +1,7 @@
 ---
 name: Jane Fonda
-position:
+position: Principal
 image_path:
-email:
-blurb:
+email: jane@hilltopalliance.com
+blurb: Jane is an activist and movie start.
 ---
