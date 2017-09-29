@@ -1,8 +1,8 @@
 ---
 title: U.S. Retail's Core Problem
 categories:
-author_staff_member:
-date:
+author_staff_member: bob-stec
+date: 2017-09-28 12:00:00
 ---
 
 
