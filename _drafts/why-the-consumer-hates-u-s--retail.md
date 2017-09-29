@@ -1,8 +1,13 @@
 ---
 title: U.S. Retail Core Problem
-author_staff_member:
-date:
-excerpt:
+author_staff_member: bob-stec
+date: 2017-09-28 11:00:00
+excerpt: >-
+  Traditional retailers have been in panic mode for a while now. The shifting
+  consumer landscape is rapidly destroying what years of sameness has built. The
+  blame has erroneously been placed on Amazon, the internet, technology and
+  over-saturation when the truth is that the fault lies in the retailers
+  themselves.
 ---
 
 
