@@ -11,7 +11,7 @@ excerpt: >-
 ---
 
 
-*First published in* The Robin Report
+*First published in* [The Robin Report](http://www.therobinreport.com/retails-core-problem/?utm_source=The+Robin+Report&amp;utm_campaign=61d32346c5-Retails'+Core+Problem_2017_08_16&amp;utm_medium=email&amp;utm_term=0_e90268c709-61d32346c5-229112669)
 
 Traditional retailers have been in panic mode for a while now. The shifting consumer landscape is rapidly destroying what years of sameness has built. The blame has erroneously been placed on Amazon, the internet, technology and over-saturation when the truth is that the fault lies in the retailers themselves.
 
