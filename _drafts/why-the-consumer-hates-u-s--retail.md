@@ -11,7 +11,7 @@ excerpt: >-
 ---
 
 
-*First published in*The Robin Report
+*First published in* The Robin Report
 
 Traditional retailers have been in panic mode for a while now. The shifting consumer landscape is rapidly destroying what years of sameness has built. The blame has erroneously been placed on Amazon, the internet, technology and over-saturation when the truth is that the fault lies in the retailers themselves.
 
